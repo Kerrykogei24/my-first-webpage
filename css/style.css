@@ -1,10 +1,34 @@
-h1 {
-    color: blue;
-    text-align: center;
-}
-
-h2 {
-    color: green;
-    text-align: center;
-    font-style: italic;
-}
+            h1 {
+                color: #1B1D25;
+                text-align: center;
+            }
+            
+            h2 {
+                color: #000fff;
+                text-align: center;
+                font-style: italic;
+            }
+            
+            p {
+                font-family: sans-serif;
+            }
+            
+            ul {
+                line-height: 40px;
+            }
+            
+            ol {
+                line-height: 40px;
+            }
+            
+            body {
+                background-color: #9AFFA9;
+            }
+            
+            strong {
+                font-style: italic;
+            }
+            
+            em {
+                font-weight: bold;
+            }
